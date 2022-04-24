@@ -1,6 +1,15 @@
+// ignore: duplicate_ignore
+// ignore: duplicate_ignore
+// ignore_for_file: deprecated_member_use, duplicate_ignore
+
+// ignore_for_file: deprecated_member_use
+
+// ignore_for_file: deprecated_member_use
+
+// ignore_for_file: deprecated_member_use
+
 import 'package:clock_app/alarm_helper.dart';
 import 'package:clock_app/constants/theme_data.dart';
-import 'package:clock_app/data.dart';
 import 'package:clock_app/models/alarm_info.dart';
 import 'package:dotted_border/dotted_border.dart';
 import 'package:flutter/material.dart';
