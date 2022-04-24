@@ -1,3 +1,5 @@
+// ignore_for_file: deprecated_member_use
+
 import 'package:clock_app/constants/theme_data.dart';
 import 'package:clock_app/data.dart';
 import 'package:clock_app/enums.dart';
